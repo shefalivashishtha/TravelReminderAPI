@@ -1,0 +1,2 @@
+C:\Users\shefalivashishtha\source\repos\WApiReminder\WApiReminder.Tests\obj\Debug\WApiReminder.Tests.csprojAssemblyReference.cache
+C:\Users\shefalivashishtha\source\repos\WApiReminder\WApiReminder.Tests\obj\Debug\WApiReminder.Tests.csproj.CoreCompileInputs.cache
